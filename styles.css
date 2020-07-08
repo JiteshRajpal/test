@@ -1,0 +1,18 @@
+body
+{
+  background-color: blue;
+  align-content: center;
+  text-align: center;
+}
+.title-image
+{
+  width: 40%;
+  padding: 2rem;
+}
+
+.navbar
+{
+  padding: 2rem 12rem 3rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
